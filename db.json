@@ -345,5 +345,91 @@
       "task": "create crud app",
       "id": 1
     }
+  ],
+  "internships":[
+    {
+      "id":1,
+      "image":"https://assets.interntheory.com/uploads/company/logos/964b36c595044cf05eeab95d881e196638a6b3ef.jpg",
+      "profile":"Research and Development",
+      "company":"Bombay Hemp Company (BOHECO) Pvt. Ltd.",
+      "internship-type":"Full Time Internship",
+      "working-field":"Healthcare, Life Sciences & Pharma",
+      "location":"Mumbai",
+      "stipend":"20000 per month",
+      "weeks-left":"4 weeks left",
+      "type":"health"
+    },
+    {
+      "id":2,
+      "image":"https://assets.interntheory.com/uploads/company/logos/9a1b5a51b4a3fea4078b0e13e877a8ec422fdd21.jpg",
+      "profile":"Marketing",
+      "company":"Bitpastel Solution Pvt Ltd",
+      "internship-type":"Full Time Internship",
+      "working-field":"Business Development",
+      "location":"Kolkata",
+      "stipend":"12000 per month",
+      "weeks-left":"4 weeks left",
+      "type":"marketing"
+    },
+    {
+      "id":3,
+      "image":"https://assets.interntheory.com/uploads/company/logos/8e8fc086c6b00a17bda7673163382b99ffa79699.jpg",
+      "profile":"PHP Web Development | PHP Developer | Software Dev",
+      "company":"Sparks To Ideas",
+      "internship-type":"Part Time Internship",
+      "working-field":"Web Design And Development",
+      "location":"Ahmedabad",
+      "stipend":"6000 per month",
+      "weeks-left":"1 week left",
+      "type":"software"
+    },
+    {
+      "id":4,
+      "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vBmeNfhXI1Sue8fAfAmKWAHaEK%26pid%3DApi%26h%3D160&f=1",
+      "profile":"Software Developer",
+      "company":"Flipkart",
+      "internship-type":"Full Time Internship",
+      "working-field":"Web Design And Development",
+      "location":"Bangalore",
+      "stipend":"30000 per month",
+      "weeks-left":"2 weeks left",
+      "type":"software"
+    },
+    {
+      "id":5,
+      "image":"https://assets.interntheory.com/uploads/company/logos/964b36c595044cf05eeab95d881e196638a6b3ef.jpg",
+      "profile":"Graphic Design Intern",
+      "company":"Bombay Hemp Company (BOHECO) Pvt. Ltd.",
+      "internship-type":"Full Time Internship",
+      "working-field":"Graphic Designing",
+      "location":"Mumbai",
+      "stipend":"10000 - 20000 per month",
+      "weeks-left":"2 weeks left",
+      "type":"graphics"
+    },
+    {
+      "id":6,
+      "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1FR5dWqdKCuYy7mJxUZUcQHaHa%26pid%3DApi%26h%3D160&f=1",
+      "profile":"Sales Executive",
+      "company":"BMW India",
+      "internship-type":"Full Time Internship",
+      "working-field":"Sales and Reporting",
+      "location":"Bangalore",
+      "stipend":"50000 - 70000 per month",
+      "weeks-left":"3 weeks left",
+      "sales":"sales"
+    },
+    {
+      "id":7,
+      "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5Ih3fXWRacdLdKqV8Hrb7QHaHa%26pid%3DApi&f=1",
+      "profile":"Research Scientist",
+      "company":"Tesla",
+      "internship-type":"Full Time Internship",
+      "working-field":"Research and Innovation",
+      "location":"USA",
+      "stipend":"$1000 - $2000 per month",
+      "weeks-left":"3 weeks left",
+      "type":"research"
+    }
   ]
 }
