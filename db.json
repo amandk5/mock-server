@@ -445,10 +445,6 @@
       "task": "test"
     }
   ],
-  "cars":[
-
-  ],
-  "wishlisted_cars":[
-    
-  ]
+  "cars": [{}],
+  "wishlisted_cars": [{}]
 }
