@@ -445,6 +445,16 @@
       "task": "test"
     }
   ],
-  "cars": [{}],
-  "wishlisted_cars": [{}]
+  "cars": [
+    {
+      "id": 1,
+      "type": "cars"
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "type": "wishlist"
+    }
+  ]
 }
