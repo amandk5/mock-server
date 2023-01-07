@@ -456,5 +456,10 @@
       "id": 1,
       "type": "wishlist"
     }
+  ],
+  "masai_task_management_": [
+    {
+      "id": 1
+    }
   ]
 }
