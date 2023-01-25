@@ -438,7 +438,11 @@
       "type": "research"
     }
   ],
-  "bookings": [],
+  "bookings": [
+    {
+      "id": 1
+    }
+  ],
   "dummy": [
     {
       "id": 1,
