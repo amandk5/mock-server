@@ -477,5 +477,8 @@
     }
   ],
   "users": [{ "id": 1 }],
-  "blogs": [{ "id": 1 }]
+  "blogs": [{ "id": 1 }],
+  "stock_broker_users": [],
+  "stock_broker_companies": [],
+  "stock_broker_stocks": []
 }
